@@ -2,9 +2,9 @@
 
 ```
 When talking about cryptocurrency , you have to talk about blockchain wallet. Bitcoin has been created for 
-10 years, and the blockchain also has gone through 3 periods. At that time,the wallet develops 
-from single-chain wallet to multi-chain wallet,
-and it also develops from a transfer-receive wallet to a blockchain ecological service platform.
+10 years, and the blockchain also has gone through 3 periods. At that time,the wallet develops from
+single-chain wallet to multi-chain wallet, and it also develops from a transfer-receive wallet to a 
+blockchain ecological service platform.
 ```
 
 
@@ -91,7 +91,8 @@ Keystore, private key, mnemonic are common to all wallets, wallet service provid
 ## The Sorts of Blockchain Wallets
 
 ```
-We will classify the wallets from two dimensions: The generation of private keys and the storage of private keys.
+We will classify the wallets from two dimensions: The generation of private keys and the storage of private 
+keys.
 ```
 
 ### Storage of the Key
