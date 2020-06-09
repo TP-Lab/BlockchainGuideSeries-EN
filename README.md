@@ -910,7 +910,7 @@ Can you answer the question of blockchain wallet correctly?
 
 ##### 2.With the consent of the author, the work is allowed to be quoted for non-profit, and the source and the author shall be indicated, so as to respect the work achievements of the author.
 
-##### 3.Source：https://tp-lab.github.io/BlockchainGuideSeries-EN/#/   Writer：TokenPocket。
+##### 3.Source：https://tp-lab.github.io/BlockchainGuideSeries-EN/#/   Writer：TokenPocket.
 
 ##### 4.No reprinting without permission. Tokenpocket and the author / translator reserve the right to pursue illegal reprints by legal means.
 
