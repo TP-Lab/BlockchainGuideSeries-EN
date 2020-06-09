@@ -1,7 +1,10 @@
 ## The History of Blockchain Wallets
 
 ```
-When talking about cryptocurrency , you have to talk about blockchain wallet. Bitcoin has been created for 10 years, and the blockchain also has gone through 3 periods. At that time,the wallet develops from single-chain wallet to multi-chain wallet,and it also develops from a transfer-receive wallet to a blockchain ecological service platform.
+When talking about cryptocurrency , you have to talk about blockchain wallet. Bitcoin has been created for 
+10 years, and the blockchain also has gone through 3 periods. At that time,the wallet develops 
+from single-chain wallet to multi-chain wallet,
+and it also develops from a transfer-receive wallet to a blockchain ecological service platform.
 ```
 
 
@@ -44,7 +47,8 @@ The wallet has gradually assumed its role as the portal to the world of blockcha
 ## The Basic Knowledge of Blockchain Wallets
 
 ```
-To learn how to use a blockchain wallet, you must understand the five nouns : public key, private key, mnemonic, keystore and password.
+To learn how to use a blockchain wallet, you must understand the five nouns : 
+public key, private key, mnemonic, keystore and password.
 ```
 
 ### Public key
