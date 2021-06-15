@@ -890,8 +890,6 @@ Can you answer the question of blockchain wallet correctly?
 <img src="https://tp-statics.tokenpocket.pro/dapp/tokenpocket-1576248895145.jpeg" width="250">
 </div> -->
 
-**Business wechat：mm3mm520**
-
 **Official account:** TokenPocket wallet
 
 **Telegram：** https://t.me/tokenPocket_en
