@@ -185,18 +185,6 @@ Nowadays there are three types of exchanges :<font color=#2980fe>centralized exc
 > Through smart contracts, while improving transparency, it also greatly reduces the reliance on central media.
 
 
-**<font color=#2980fe>Mixed Exchange</font>**
-
-Mixed exchanges can aggregate all exchanges into a single exchange platform, which allowing users to cross-platform anytime without downloading many apps. Aggregation exchanges share the quoted depth and pair trading of other exchanges. For example, every time you buy or sell bitcoin in the mixed exchange, you can choose the best one with cost effective price from different exchanges.
-
-> Decentralized wallets nowadays can support decentralized exchanges, and some of them support aggregated exchanges. TP wallet launched mixed exchange in December 2019.
-
-**<font color=#2980fe>OTC</font>**
-
-OTC (Over The Counter) is a peer-to-peer transaction which is guaranteed by a third party outside the exchange. OTC in the blockchain usually refers to the one-to-one transaction of fiat money and digital currency between OTC users.Currently,the largest OTC mainly based on exchanges, but some wallets also connected to the services of third-party channels.
-
-> For example, TokenPocket wallet has connected to the OTC service of currency trading, when users use TP wallet, they can easily sell their digital currency into fiat money, or use fiat money to buy digital currency.
-
 ### Ecology Building
 
 At present, in some public chain designs, users in the ecology are encouraged to participate in the public chain ecological construction. The main forms are **<font color=#2980fe>voting, referendum and staking.</font>**。
@@ -221,35 +209,6 @@ That is to say, the DApp on EOS cannot run on ETH, just as APP on Android cannot
 ![DApp Store Sketch Map](https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1591670818207.png "DApp Store")
 
 > TokenPocket supports a number of popular games such as EOS Dynasty, EOSKnights, EOS Crypto Knights, Crypto Sword and Magic, XPET and so on. In order to avoid the tedious operation of users switching wallets, TP has developed the MiniWallet mode, which requires only one-time authorized operation and can always stay and have fun in the game.
-
-### Ecology Claim Candy Rewards
-
-The advantage of owning a wallet is that you can get candy from time to time (candy refers to the token obtained free on the blockchain). Common candy distribution methods are:**<font color=#2980fe>registration to get, free airdrop, advertising candy, Airgrab and mining airdrop etc.</font>**
-
-> Candy refers to the token obtained free of charge on the blockchain
-
-**<font color=#2980fe>registration to get：</font>**  
-Registration to get: Usually at the early stage of the project, there are often free candy activities. As long as you register your blockchain address (such as ETH, EOS account, etc.) on the project's activity page, you can get it after waiting for the project to issue a reward of free candy.
-
-**<font color=#2980fe>free airdrop：</font>**  
-Airdrops for holding coins: There are two ways to hold airdrops for coins. One method is a forked coin. For example, BCH is forked from Bitcion, all users who held Bitcoin before the fork will receive the corresponding amount according to the qty of Bitcoin . Another is to directly issue another type of token to the holder, such as the first airdrop coin ADD on EOS. When the EOS mainnet is launched, a snapshot of the entire network account is taken, then distribute the candy to the account which is holding EOS.
-
-**<font color=#2980fe>advertising candy：</font>**   
-Advertising candy: At present, many projects will do small transactions to the holders for promoting their products. Their own advertisements can be seen in the transaction information.
-
-> Ecology Claim Candy Rewards
-
-![Airgrab Sketch Map](https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1591671158041.png "Airgrab")
-
-**<font color=#2980fe>Airgrab：</font>**  
- This is a way to distribute candy on EOS. Collecting tokens requires RAM of user’s account (each token needs about 0.25KB). You need to wait for the airdrop after executing.In TokenPocket wallet, an information integration page [Candy Airgrab] is specially created for Airgrab, and the candy currently available for collection is displayed in TokenPocket. Users only need to click the [AirGrab] button to complete the operation.
-
-**<font color=#2980fe>Mining airdrop：</font>**  
-Mining airdrop means that after the user sends a small amount of tokens to a contract account, the contract will return a certain amount of candy to the user at the same time as the original token is returned. The famous mining airdrop is EIDOS. Users only need to send 0.0001 EOS to the contract account, and the contract will return 0.0001 EOS while giving away 0.01% of the current remaining EIDOS of their contract account.
-
-![Mining airdrop Sketch Map](https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1591671277313.png "Mining airdrop")
-
-Users can log in the decentralized exchange quickly in the wallet, you can exchange the receiving candy to ETH,EOS,USDT ect directly. That’s awesome.
 
 ### Assets Investment
 
